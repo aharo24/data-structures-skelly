@@ -1,0 +1,5 @@
+OPEN SOURCE GIT:
+
+- https://stackoverflow.com/questions/20255911/what-does-the-e-syntax-mean-in-java
+- https://www.geeksforgeeks.org/new-operator-vs-newinstance-method-java/
+- 
