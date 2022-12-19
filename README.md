@@ -1,2 +1,2 @@
-# CSC_311
-DSA but simple
+# From the Ground Up
+Coding Data Structures from the ground up.
